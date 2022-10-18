@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\bin\Debug\ejercicio2.exe.config
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\bin\Debug\ejercicio2.exe
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\bin\Debug\ejercicio2.pdb
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.exe
+I:\Facultad\programacion-I\ejercicios-listas\TP4-listas\ejercicio2\obj\Debug\ejercicio2.pdb

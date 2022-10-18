@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\bin\Debug\ejercicio08.exe.config
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\bin\Debug\ejercicio08.exe
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\bin\Debug\ejercicio08.pdb
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.Form1.resources
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.exe
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio08\obj\Debug\ejercicio08.pdb

@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\bin\Debug\03-checkBox-radioBtn-grpBox.exe.config
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\bin\Debug\03-checkBox-radioBtn-grpBox.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\bin\Debug\03-checkBox-radioBtn-grpBox.pdb
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\03-checkBox-radioBtn-grpBox.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\03-checkBox-radioBtn-grpBox.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\_03_checkBox_radioBtn_grpBox.Form1.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\_03_checkBox_radioBtn_grpBox.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\03-checkBox-radioBtn-grpBox.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\03-checkBox-radioBtn-grpBox.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\03-checkBox-radioBtn-grpBox.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\03-checkBox-radioBtn-grpBox\obj\Debug\03-checkBox-radioBtn-grpBox.pdb

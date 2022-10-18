@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\bin\Debug\05-calendar-progressBar-dataView.exe.config
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\bin\Debug\05-calendar-progressBar-dataView.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\bin\Debug\05-calendar-progressBar-dataView.pdb
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\05-calendar-progressBar-dataView.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\05-calendar-progressBar-dataView.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\_05_calendar_progressBar_dataView.Form1.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\_05_calendar_progressBar_dataView.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\05-calendar-progressBar-dataView.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\05-calendar-progressBar-dataView.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\05-calendar-progressBar-dataView.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\05-calendar-progressBar-dataView\obj\Debug\05-calendar-progressBar-dataView.pdb

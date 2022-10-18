@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\bin\Debug\07-various-controls.exe.config
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\bin\Debug\07-various-controls.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\bin\Debug\07-various-controls.pdb
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\07-various-controls.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\07-various-controls.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\_07_various_controls.Form1.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\_07_various_controls.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\07-various-controls.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\07-various-controls.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\07-various-controls.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\07-various-controls\obj\Debug\07-various-controls.pdb

@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\bin\Debug\pilas.exe.config
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\bin\Debug\pilas.exe
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\bin\Debug\pilas.pdb
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.Form1.resources
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.Properties.Resources.resources
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.exe
+I:\Facultad\programacion-I\estructuras-dinamicas\estructuras\estructurasDinamicas\pilas\obj\Debug\pilas.pdb

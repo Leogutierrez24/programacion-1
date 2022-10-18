@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\bin\Debug\06-colorFontDialog.exe.config
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\bin\Debug\06-colorFontDialog.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\bin\Debug\06-colorFontDialog.pdb
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\06-colorFontDialog.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\06-colorFontDialog.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\_06_colorFontDialog.Form1.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\_06_colorFontDialog.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\06-colorFontDialog.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\06-colorFontDialog.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\06-colorFontDialog.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\06-colorFontDialog\obj\Debug\06-colorFontDialog.pdb

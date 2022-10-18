@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\bin\Debug\ejercicio11.exe.config
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\bin\Debug\ejercicio11.exe
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\bin\Debug\ejercicio11.pdb
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.Form1.resources
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.exe
+I:\Facultad\programacion-I\tp-recursividad\tp-recursividad-form\ejercicio11\obj\Debug\ejercicio11.pdb

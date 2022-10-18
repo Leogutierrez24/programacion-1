@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\bin\Debug\04-listBox-ComboBox.exe.config
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\bin\Debug\04-listBox-ComboBox.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\bin\Debug\04-listBox-ComboBox.pdb
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\04-listBox-ComboBox.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\04-listBox-ComboBox.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\_04_listBox_ComboBox.Form1.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\_04_listBox_ComboBox.Properties.Resources.resources
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\04-listBox-ComboBox.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\04-listBox-ComboBox.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\04-listBox-ComboBox.exe
+I:\Facultad\programacion-I\tp-01\ejemplos\04-listBox-ComboBox\obj\Debug\04-listBox-ComboBox.pdb

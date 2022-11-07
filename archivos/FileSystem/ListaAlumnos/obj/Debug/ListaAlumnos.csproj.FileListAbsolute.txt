@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\bin\Debug\ListaAlumnos.exe.config
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\bin\Debug\ListaAlumnos.exe
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\bin\Debug\ListaAlumnos.pdb
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.Form1.resources
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.Properties.Resources.resources
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.exe
+I:\Facultad\programacion-I\development\archivos\FileSystem\ListaAlumnos\obj\Debug\ListaAlumnos.pdb

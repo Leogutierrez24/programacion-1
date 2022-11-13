@@ -1,0 +1,7 @@
+1,Leonel Alejandro,Gutierrez,4700
+1,Leonel Alejandro,Gutierrez,325
+2,Luis,Chavez,5500
+2,Luis,Chavez,1343
+3,Alejandro,Rellan,1250
+4,Alan,Sandoval,3400
+4,Alan,Sandoval,2756

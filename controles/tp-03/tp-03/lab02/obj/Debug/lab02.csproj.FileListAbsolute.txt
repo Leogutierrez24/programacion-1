@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\bin\Debug\lab02.exe.config
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\bin\Debug\lab02.exe
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\bin\Debug\lab02.pdb
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.Form1.resources
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.Properties.Resources.resources
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.exe
+I:\Facultad\programacion-I\development\controles\tp-03\tp-03\lab02\obj\Debug\lab02.pdb

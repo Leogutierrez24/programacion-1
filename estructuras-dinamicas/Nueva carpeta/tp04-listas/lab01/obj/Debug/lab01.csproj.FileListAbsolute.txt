@@ -1,0 +1,22 @@
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\bin\Debug\lab01.exe.config
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\bin\Debug\lab01.exe
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\bin\Debug\lab01.pdb
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.Form1.resources
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.Properties.Resources.resources
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.exe
+I:\Facultad\programacion-I\development\estructuras-dinamicas\listas\tp04-listas\lab01\obj\Debug\lab01.pdb
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\bin\Debug\lab01.exe.config
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\bin\Debug\lab01.exe
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\bin\Debug\lab01.pdb
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.Form1.resources
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.Properties.Resources.resources
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.exe
+I:\Facultad\programacion-I\development\estructuras-dinamicas\Nueva carpeta\tp04-listas\lab01\obj\Debug\lab01.pdb

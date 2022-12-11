@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\bin\Debug\manejo-archivos.exe.config
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\bin\Debug\manejo-archivos.exe
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\bin\Debug\manejo-archivos.pdb
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo-archivos.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo-archivos.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo_archivos.Form1.resources
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo_archivos.Properties.Resources.resources
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo-archivos.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo-archivos.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo-archivos.exe
+I:\Facultad\programacion-I\development\archivos\manejo-archivos\manejo-archivos\obj\Debug\manejo-archivos.pdb

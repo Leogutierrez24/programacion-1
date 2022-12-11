@@ -53,7 +53,23 @@ namespace app01
         {
             try
             {
-                pilaContenedores.pop();
+                string id = Interaction.InputBox("Ingrese el ID del contenedor");
+                Pila auxPila = new Pila();
+                Contenedor auxContenedor = pilaContenedores.pop();
+
+                while (auxContenedor.Id != id)
+                {
+                    auxPila.push(auxContenedor);
+                    auxContenedor = pilaContenedores.pop();
+                }
+
+                auxContenedor = auxPila.pop();
+                while (auxContenedor != null)
+                {
+                    pilaContenedores.push(auxContenedor);
+                    auxContenedor = auxPila.pop();
+                }
+
                 listView1.Items.Clear();
                 printPila(pilaContenedores.getLastOne());
             } catch(Exception ex)

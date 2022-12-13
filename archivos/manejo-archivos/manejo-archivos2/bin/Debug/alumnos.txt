@@ -1,0 +1,3 @@
+12345678,Nariyuki,Yuiga
+32123543,perro,peque
+40123421,leonel,gutierrez

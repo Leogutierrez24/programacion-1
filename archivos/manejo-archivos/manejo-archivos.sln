@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manejo-archivos", "manejo-a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manejo-archivos2", "manejo-archivos2\manejo-archivos2.csproj", "{5D2F37D8-690E-4039-B92F-74D18EBCF7FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manejo-archivos3", "manejo-archivos3\manejo-archivos3.csproj", "{A7341A1F-868E-4BE5-B1A9-32091F209499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5D2F37D8-690E-4039-B92F-74D18EBCF7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D2F37D8-690E-4039-B92F-74D18EBCF7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D2F37D8-690E-4039-B92F-74D18EBCF7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7341A1F-868E-4BE5-B1A9-32091F209499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7341A1F-868E-4BE5-B1A9-32091F209499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7341A1F-868E-4BE5-B1A9-32091F209499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7341A1F-868E-4BE5-B1A9-32091F209499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

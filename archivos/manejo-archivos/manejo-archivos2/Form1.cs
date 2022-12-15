@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -184,6 +185,44 @@ namespace manejo_archivos2
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            List<Alumno> alumnos = controlAlumnos.orderById();
+            List<Nota> notas = controlNotas.orderById();
+            List<Promedio> promedios = new List<Promedio>();
+
+            int totalNotas = 0;
+            int qtyNotas = 0;
+            decimal promedio = 0;
+
+            for(int i = 0; i < alumnos.Count; i++)
+            {
+                Promedio prom = new Promedio();
+                prom.DNI = alumnos[i].DNI;
+                prom.Nombre = alumnos[i].Nombre;
+                prom.Apellido = alumnos[i].Apellido;
+
+                for(int j = 0; j < notas.Count; j++)
+                {
+                    if (alumnos[i].DNI == notas[j].DNI)
+                    {
+                        totalNotas += notas[j].Calif;
+                        qtyNotas++;
+                    }
+                }
+
+                promedio = qtyNotas == 0 ? 0 : totalNotas / qtyNotas;
+                prom.NotaFinal = promedio;
+                promedios.Add(prom);
+                totalNotas = 0;
+                qtyNotas = 0;
+                promedio = 0;
+            }
+
+            dataGridView3.DataSource = null;
+            dataGridView3.DataSource = promedios;
         }
     }
 }

@@ -1,6 +1,6 @@
 # Hello there, I'm gone to tell about this repo.
 
-Here I will upload excersices and examples about C# Windows Forms. Is this what I'm learning right now at the university.
+Here I will upload exercises and examples about C# Windows Forms. Is this what I'm learning right now at the university.
 
 ### Controls
 

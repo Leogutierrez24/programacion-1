@@ -1,23 +1,19 @@
-# Buenas, te cuento un poco de que viene la mano
+# Hello there, I'm gone to tell about this repo.
 
-Principalmente voy a estar subiendo ejercicios y ejemplos de C# .NET que es el lenguaje que estoy aprendiendo ahora en la universidad.
-Particularmente todo (o quizás casi todo) va a estar desarrollado en Windows Form.
+Here I will upload excersices and examples about C# Windows Forms. Is this what I'm learning right now at the university.
 
-### Controles
+### Controls
 
-Algunos ejemplos de los controles de interacción de usuario más sencillos o cotidianos en los formularios.
+Examples about the most basic controls and the interactions we can do with them. 
 
-### Funciones recursivas
+### Recursive functions
 
-Lo mismo que el título, funciones iterativas pues.
+Like I said before, functions calling them self.
 
-### Estructuras de datos
+### Data Structures
 
-Son estructuras de datos más bien abstractas, sin una estructura preestablecida en código.
-Son _pilas, colas y diferentes tipos de listas_.
+About this matter, I will handle just the dinamic and non-lineal structures like _queues, stacks, linked lists_ and _threes_.
 
-Voy a ir actualizando a medida que resuelvo y aprendo nuevos contenidos.
+note: the excersive description maybe be inside the code or in a pdf (すみません:pray:)
 
-nota: las consignas o pautas del programa puede que esten dentro del código del programa o en pdf dentro de la carpeta (すみません:pray:)
-
-Y si llegaste hasta acá, te agradezco por tu tiempo :wink:
+Thank you for reading this! :wink:

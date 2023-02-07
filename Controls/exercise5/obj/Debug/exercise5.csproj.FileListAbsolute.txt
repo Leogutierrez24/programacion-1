@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\Controls\exercise5\bin\Debug\exercise5.exe.config
+I:\Facultad\programacion-I\development\Controls\exercise5\bin\Debug\exercise5.exe
+I:\Facultad\programacion-I\development\Controls\exercise5\bin\Debug\exercise5.pdb
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.Form1.resources
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.Properties.Resources.resources
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.exe
+I:\Facultad\programacion-I\development\Controls\exercise5\obj\Debug\exercise5.pdb

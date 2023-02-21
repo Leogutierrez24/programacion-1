@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\Controls\exercise13\bin\Debug\exercise13.exe.config
+I:\Facultad\programacion-I\development\Controls\exercise13\bin\Debug\exercise13.exe
+I:\Facultad\programacion-I\development\Controls\exercise13\bin\Debug\exercise13.pdb
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.Form1.resources
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.Properties.Resources.resources
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.exe
+I:\Facultad\programacion-I\development\Controls\exercise13\obj\Debug\exercise13.pdb

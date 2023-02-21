@@ -1,8 +1,0 @@
-Ejercicio 12
-
-El resultado de la función para todos los valores de X <= 100 es de 91
-y para los valores de X > 100 es resultado es x - 10.
-
-La función para los valores de X <= 100 siempre va a sumar 11 hasta que X sobre pase a 100.
-Una vez que sobrepasa 100 comienza a sumar 11 y restar 10 hasta que X es igual 101 y termina el else (return f(f(x + 11)).
-Ahora para f( x = 101 ) = 91.

@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\Recursion\exercise05\bin\Debug\exercise05.exe.config
+I:\Facultad\programacion-I\development\Recursion\exercise05\bin\Debug\exercise05.exe
+I:\Facultad\programacion-I\development\Recursion\exercise05\bin\Debug\exercise05.pdb
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.Form1.resources
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.Properties.Resources.resources
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.exe
+I:\Facultad\programacion-I\development\Recursion\exercise05\obj\Debug\exercise05.pdb

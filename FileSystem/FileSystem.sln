@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example", "example\example.csproj", "{803FBD64-3A09-4BBA-AFD3-AE967E6C1CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise01", "exercise01\exercise01.csproj", "{223F00DE-53A0-4DFB-BE22-B163639CD66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise02", "exercise02\exercise02.csproj", "{29D9A142-FCF3-4A93-9D8B-4B284405C951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803FBD64-3A09-4BBA-AFD3-AE967E6C1CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803FBD64-3A09-4BBA-AFD3-AE967E6C1CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803FBD64-3A09-4BBA-AFD3-AE967E6C1CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803FBD64-3A09-4BBA-AFD3-AE967E6C1CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223F00DE-53A0-4DFB-BE22-B163639CD66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223F00DE-53A0-4DFB-BE22-B163639CD66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223F00DE-53A0-4DFB-BE22-B163639CD66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223F00DE-53A0-4DFB-BE22-B163639CD66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D9A142-FCF3-4A93-9D8B-4B284405C951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D9A142-FCF3-4A93-9D8B-4B284405C951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D9A142-FCF3-4A93-9D8B-4B284405C951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D9A142-FCF3-4A93-9D8B-4B284405C951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE441A4-30F0-431D-8AFB-5C55C6EC8526}
+	EndGlobalSection
+EndGlobal

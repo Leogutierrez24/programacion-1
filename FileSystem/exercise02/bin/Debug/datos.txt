@@ -1,0 +1,9 @@
+buenos aires,cadena1,i1,10
+buenos aires,cadena1,i2,20
+buenos aires,cadena2,i1,30
+caba,cadena1,i1,20
+caba,cadena1,i2,30
+caba,cadena2,i1,60
+caba,cadena2,i2,50
+mendoza,cadena1,i1,20
+mendoza,cadena2,i2,30

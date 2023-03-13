@@ -1,0 +1,11 @@
+I:\Facultad\programacion-I\development\FileSystem\example\bin\Debug\example.exe.config
+I:\Facultad\programacion-I\development\FileSystem\example\bin\Debug\example.exe
+I:\Facultad\programacion-I\development\FileSystem\example\bin\Debug\example.pdb
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.csproj.AssemblyReference.cache
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.csproj.SuggestedBindingRedirects.cache
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.Form1.resources
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.Properties.Resources.resources
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.csproj.GenerateResource.cache
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.exe
+I:\Facultad\programacion-I\development\FileSystem\example\obj\Debug\example.pdb
